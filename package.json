@@ -25,8 +25,8 @@
   "author": "Adam Lynch <contact@adamlynch.com>",
   "license": "MIT",
   "dependencies": {
-    "proxyquire": "~1.0.1",
-    "graceful-ncp": "0.0.1",
-    "fs-extra": "~0.13.0"
+    "proxyquire": "^1.4.0",
+    "graceful-ncp": "^1.0.0",
+    "fs-extra": "^0.13.0"
   }
 }
