@@ -1,6 +1,6 @@
 {
   "name": "graceful-fs-extra",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "Extra methods for the fs object (with graceful-ncp)",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,6 @@
   "dependencies": {
     "proxyquire": "^1.4.0",
     "graceful-ncp": "^2.0.0",
-    "fs-extra": "0.13.0"
+    "fs-extra": "^0.30.0"
   }
 }
